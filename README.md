@@ -1,5 +1,7 @@
 # tata_crucible2019
 
+Problem Statement for Tata Crucible Noise & Illumination Challenege : 
+
 The smart city initiative from government of India has triggered lots of enthusiasm among the passionate innovators across India. In the imagination of any city dweller in India, the picture of a smart city contains a wish list of infrastructure and services that describes his or her level of aspiration. To provide for the aspirations and needs of the citizens, urban planners ideally aim at developing the entire urban eco-system, which is represented by the four pillars of comprehensive development-institutional, physical, social and economic infrastructure. This can be a long-term goal and cities can work towards developing such comprehensive infrastructure incrementally, adding on layers of ‘smartness’. 
 
 In an attempt to provide comfort to the people, we are exploring solutions to identify and reduce noise levels in the city. In addition, safety also becomes important and illumination levels during the night times in the city needs to be measured and maintained. Potholes are another big cause of inconvenience on the roads. They contribute to accidents, traffic jams and vehicle damages.
